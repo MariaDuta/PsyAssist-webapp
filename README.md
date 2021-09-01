@@ -1,6 +1,6 @@
 # Information about PsyAssist
 
-PsyAssist is a web application to assist employees manage or prevent symptoms of any mental health problem. 
+PsyAssist is a web application to assist employees manage or prevent symptoms of any mental health problems. 
 
 Technologies used: React.js, Firebase firestore and Firebase Authentification.
 
