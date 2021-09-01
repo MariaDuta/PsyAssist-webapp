@@ -1,8 +1,18 @@
+# Information about PsyAssist
+
 PsyAssist is a web application to assist employees manage or prevent symptoms of any mental health problem. 
 
 Technologies used: React.js, Firebase firestore and Firebase Authentification.
 
 Deployed on: https://psyassist.netlify.app/
+
+
+
+
+
+
+
+
 
 
 
